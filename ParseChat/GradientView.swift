@@ -3,7 +3,7 @@
 //  foundApp
 //
 //  Created by Abubakari Kitwala on 5/9/18.
-//  Copyright © 2018 Judy Gatobu. All rights reserved.
+//  Copyright © 2018 Abubakari Kitwala. All rights reserved.
 //
 
 import UIKit
